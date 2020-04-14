@@ -43,7 +43,7 @@ import com.amazonaws.services.sqs.model.SendMessageRequest;
  * (C:\\Users\\ttbus\\.aws\\credentials) where the sample code will load the credentials from.
  * <p>
  * <b>WARNING:</b> To avoid accidental leakage of your credentials, DO NOT keep
- * the credentials file in your source directory.22
+ * the credentials file in your source directory.aa
  */
 public class SimpleQueueServiceSample {
 
